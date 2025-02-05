@@ -481,25 +481,29 @@
 - Plan to rescue the prisoners BEFORE Shar's Temple (and the Nightsong questline)
 # House in Deep Shadows
 - Play hide and seek with [a child](https://bg3.wiki/wiki/Oliver), get [a cool ring](https://bg3.wiki/wiki/Ring_of_Shadows)
+  - ::item_uncommon:: [Ring of Mental Inhibition](https://bg3.wiki/wiki/Ring%20of%20Mental%20Inhibition)
+  - ::item_uncommon:: [Ring of Shadows](https://bg3.wiki/wiki/Ring%20of%20Shadows)
 # Ruined Battlefield
 - ::item_story:: First opportunity to find a [Moonlantern](https://bg3.wiki/wiki/Moonlantern), dropped from [Kar'niss](https://bg3.wiki/wiki/Kar%27niss).
   - ::missable:: This version of the item is time limited and, depending on how the player entered Act 2, must be obtained before the target reaches Moonrise Towers.  It is recommended to obtain this item ASAP.
   - ::item_common:: It is higly recommended to get this one as it grants another item, the [Filigreed Feywild Bell](https://bg3.wiki/wiki/Filigreed_Feywild_Bell), and affects a future interaction with [Dolly Dolly Dolly](https://bg3.wiki/wiki/Dolly_Dolly_Dolly)
-- ::item_rare:: [Raven Gloves](https://bg3.wiki/wiki/Raven%20Gloves)
 - ::item_rare:: [Ring of Twilight](https://bg3.wiki/wiki/Ring%20of%20Twilight)
 - ::item_uncommon:: [Family Ring](https://bg3.wiki/wiki/Family%20Ring)
-- ::item_uncommon:: [Frost Prince](https://bg3.wiki/wiki/Frost%20Prince)
 - ::item_uncommon:: [Gloomstrand Shield](https://bg3.wiki/wiki/Gloomstrand%20Shield)
 - ::item_uncommon:: [Ironwood Club](https://bg3.wiki/wiki/Ironwood%20Club)
 - ::item_uncommon:: [Luminous Gloves](https://bg3.wiki/wiki/Luminous%20Gloves)
-- ::item_uncommon:: [Ring of Mental Inhibition](https://bg3.wiki/wiki/Ring%20of%20Mental%20Inhibition)
 - ::item_uncommon:: [Ring of Self Immolation](https://bg3.wiki/wiki/Ring%20of%20Self%20Immolation)
-- ::item_uncommon:: [Shadow-Cloaked Ring](https://bg3.wiki/wiki/Shadow-Cloaked%20Ring)
-- ::item_uncommon:: [Thermoarcanic Gloves](https://bg3.wiki/wiki/Thermoarcanic%20Gloves)
+- Trim some [hedges](https://bg3.wiki/wiki/Shadow-Cursed_Vine_Blight)
+  - ::item_uncommon:: [Frost Prince](https://bg3.wiki/wiki/Frost%20Prince)
 - Talk to a man who wants to [make things "right" by interrogating a dead barkeeper](https://bg3.wiki/wiki/Punish_the_Wicked)
+  - ::item_rare:: [Raven Gloves](https://bg3.wiki/wiki/Raven%20Gloves)
 - Save some harpers, find out about the Inn
+  - ::item_rare:: [Cruel Sting](https://bg3.wiki/wiki/Cruel%20Sting)
+  - ::item_uncommon:: [Thermoarcanic Gloves](https://bg3.wiki/wiki/Thermoarcanic%20Gloves)
+  - ::item_uncommon:: [Hammergrim Mist Amulet](https://bg3.wiki/wiki/Hammergrim%20Mist%20Amulet)
 - Give a certain companion [a certain flower](https://bg3.wiki/wiki/Night_Orchid) they might have mentioned
-- Destroy the everburning torches next to Korliss and fight the shadow mastiffs
+- Destroy the everburning torches next to [Korliss](https://bg3.wiki/wiki/Korliss) and fight the [Shadow Mastiffs](https://bg3.wiki/wiki/Shadow_mastiff)
+  - ::item_uncommon:: [Shadow-Cloaked Ring](https://bg3.wiki/wiki/Shadow-Cloaked%20Ring)
 # Last Light Inn
 - ::item_story:: Second chance to get a [Moonlantern](https://bg3.wiki/wiki/Moonlantern).
 - ::item_veryrare:: [Incandescent Staff](https://bg3.wiki/wiki/Incandescent%20Staff)
@@ -535,7 +539,6 @@
 - ::item_uncommon:: [Cloak of Cunning Brume](https://bg3.wiki/wiki/Cloak%20of%20Cunning%20Brume)
 - ::item_uncommon:: [Cloak of Protection](https://bg3.wiki/wiki/Cloak%20of%20Protection)
 - ::item_uncommon:: [Coruscation Ring](https://bg3.wiki/wiki/Coruscation%20Ring)
-- ::item_uncommon:: [Covert Cowl](https://bg3.wiki/wiki/Covert%20Cowl)
 - ::item_uncommon:: [Ring of Geniality](https://bg3.wiki/wiki/Ring%20of%20Geniality)
 - ::item_uncommon:: [Snowburst Ring](https://bg3.wiki/wiki/Snowburst%20Ring)
 - Talk to the inhabitants of [the Inn](https://bg3.wiki/wiki/Last_Light_Inn)
@@ -550,6 +553,8 @@
   - Protect the portal
   - Visit camp to find out more about [the boy](https://bg3.wiki/wiki/Thaniel), post-attack
 - Give [Dammon](https://bg3.wiki/wiki/Dammon) what [he needs](https://bg3.wiki/wiki/Infernal_Iron) to help [Karlach](https://bg3.wiki/wiki/Karlach), two times
+- Exterminate some [scary bugs](https://bg3.wiki/wiki/Meenlock)
+  - ::item_uncommon:: [Covert Cowl](https://bg3.wiki/wiki/Covert%20Cowl)
 # Moonrise Towers
 - ::item_story:: Final chance to get a [Moonlantern](https://bg3.wiki/wiki/Moonlantern).
 - ::item_veryrare:: [Circlet of Hunting](https://bg3.wiki/wiki/Circlet%20of%20Hunting)
@@ -1071,11 +1076,8 @@
 - ::item_common:: [Whispering Mask](https://bg3.wiki/wiki/Whispering%20Mask)
 # Items Obtained in Unknown Locations (WIP)
 - ::item_rare:: [Studded Shield +1](https://bg3.wiki/wiki/Studded%20Shield%20+1)
-- ::item_rare:: [Cruel Sting](https://bg3.wiki/wiki/Cruel%20Sting)
 - ::item_uncommon:: [Sylvan Scimitar](https://bg3.wiki/wiki/Sylvan%20Scimitar)
 - ::item_uncommon:: [Murderous Cut](https://bg3.wiki/wiki/Murderous%20Cut)
-- ::item_uncommon:: [Hammergrim Mist Amulet](https://bg3.wiki/wiki/Hammergrim%20Mist%20Amulet)
-- ::item_uncommon:: [Ring of Shadows](https://bg3.wiki/wiki/Ring%20of%20Shadows)
 - ::item_common:: [Azer Warhammer](https://bg3.wiki/wiki/Azer%20Warhammer)
 - ::item_common:: [Damaged Scale Mail](https://bg3.wiki/wiki/Damaged%20Scale%20Mail)
 - ::item_common:: [Flail of the Vortex](https://bg3.wiki/wiki/Flail%20of%20the%20Vortex)
